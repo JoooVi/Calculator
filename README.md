@@ -25,4 +25,4 @@ Uma simples calculadora web desenvolvida em JavaScript, HTML e CSS. Este projeto
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/JoooVi/calculator.git
